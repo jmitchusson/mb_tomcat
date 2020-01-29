@@ -1,0 +1,7 @@
+DEPENDENCIES
+  mb_wapp_server
+    path: .
+    metadata: true
+
+GRAPH
+  mb_wapp_server (1.0.1)

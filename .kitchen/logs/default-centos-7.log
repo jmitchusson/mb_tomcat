@@ -1,0 +1,3 @@
+I, [2020-01-27T13:53:38.117336 #29944]  INFO -- default-centos-7: -----> Destroying <default-centos-7>...
+I, [2020-01-27T13:53:38.157382 #29944]  INFO -- default-centos-7: Error response from daemon: No such container: 80e455fd1d2257cc79702bb29ad3c40bc45a119502c2f2f5dba65f3b39eff7e8
+I, [2020-01-27T13:53:38.172321 #29944]  INFO -- default-centos-7: Finished destroying <default-centos-7> (0m0.05s).
